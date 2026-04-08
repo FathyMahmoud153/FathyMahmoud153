@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Fathy Mahmoud
 
-<!--
-**FathyMahmoud153/FathyMahmoud153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student specializing in Big Data, interested in networking, bug bounty, and cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
+- Interested in networking and cybersecurity
+- Exploring practical projects in AI, data, and automation
+- Currently building my GitHub portfolio with real university and personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- Multi-Step Data Analysis Agent (EDA + RAG + Automation)
+
+## Tech / Tools
+- Python
+- Pandas
+- Streamlit
+- scikit-learn
+- Git & GitHub
+
+## Connect
+- LinkedIn: www.linkedin.com/in/fathi007
