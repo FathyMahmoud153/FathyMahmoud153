@@ -1,10 +1,10 @@
 # Hi, I'm Fathy Mahmoud
 
-Final-year Computer Science student specializing in Big Data, interested in networking, bug bounty, and cybersecurity.
+Final-year Computer Science student specializing in Big Data, interested in networking, cybersecurity, and bug bounty.
 
 ## About Me
 - Interested in networking and cybersecurity
-- Exploring practical projects in AI, data, and automation
+- Exploring practical projects in data, automation, and applied AI
 - Currently building my GitHub portfolio with real university and personal projects
 
 ## Featured Project
